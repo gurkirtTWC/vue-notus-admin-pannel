@@ -18,7 +18,7 @@
     "@tailwindcss/forms": "0.2.1",
     "@vue/compiler-sfc": "3.0.7",
     "chart.js": "2.9.4",
-    "core-js": "3.9.1",
+    "core-js": "3.36.0",
     "gulp": "4.0.2",
     "gulp-append-prepend": "1.0.8",
     "tailwindcss": "2.0.4",
